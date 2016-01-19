@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Travis", "Travis\Travis.csproj", "{095DD602-8891-4715-9784-F24B06EE6E76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Travis.Tests", "Travis.Tests\Travis.Tests.csproj", "{33BD837E-6851-4509-AD0C-1B9788F80459}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{095DD602-8891-4715-9784-F24B06EE6E76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{095DD602-8891-4715-9784-F24B06EE6E76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{095DD602-8891-4715-9784-F24B06EE6E76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{095DD602-8891-4715-9784-F24B06EE6E76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33BD837E-6851-4509-AD0C-1B9788F80459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33BD837E-6851-4509-AD0C-1B9788F80459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33BD837E-6851-4509-AD0C-1B9788F80459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33BD837E-6851-4509-AD0C-1B9788F80459}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
